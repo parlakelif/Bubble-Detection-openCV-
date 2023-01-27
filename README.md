@@ -1,2 +1,2 @@
-# Bubble-Detection-openCV-
+### Bubble Detection
 Bubble detection for microscopic image analysis.
